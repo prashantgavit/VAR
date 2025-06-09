@@ -1,0 +1,6 @@
+torch==2.7.1
+torchvision==0.22.1
+scipy==1.15.3
+h5py==3.14.0
+matplotlib==3.10.3
+imageio==2.37.0
